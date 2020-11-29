@@ -1,4 +1,4 @@
 # C Programming Language
 
-这里将存放有关于计算机C语言的文件
-All about C programming language will be place here
+这里将存放有关于计算机语言的文件
+All about computer programming languages will be place here
